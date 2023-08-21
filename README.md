@@ -1,7 +1,7 @@
 - 👋 Hi, I’m 向劲宇
 - 👀 I’m interested in physics,math and AI
-- 🌱 I’m currently learning AIGC.
-- 💞️ I’m looking to collaborate on prompt engineer.
+- 🌱 I’m currently learning applied physics.
+- 💞️ I’m looking to collaborate on AIGC Application Engineer.
 - 📫 How to reach me 📧 1376193973@qq.com
 
 <!---
